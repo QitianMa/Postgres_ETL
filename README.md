@@ -59,6 +59,3 @@ weekday int
 ## How to run scripts
 1. python create_tables.py
 2. python etl.py
-=======
-# Postgres_ETL
->>>>>>> ef220ae5b64d1cfc6f35300213afe4dc8f0699a4
