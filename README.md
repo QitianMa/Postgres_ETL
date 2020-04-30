@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Project Discription
  A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
 
@@ -59,3 +60,6 @@ weekday int
 ## How to run scripts
 1. python create_tables.py
 2. python etl.py
+=======
+# Postgres_ETL
+>>>>>>> ef220ae5b64d1cfc6f35300213afe4dc8f0699a4
